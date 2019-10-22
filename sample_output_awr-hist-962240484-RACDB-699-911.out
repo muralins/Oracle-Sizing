@@ -1,0 +1,20 @@
+STAT_NAME                                                    STAT_VALUE
+------------------------------------------------------------ ------------------------------------------------------------
+NUM_CPU_CORES_PER_NODE                                       8
+NUM_CPU_SOCKETS_PER_NODE                                     8
+PHYSICAL_MEMORY_GB_PER_NODE                                  31.23
+TOTAL_CORE_COUNT                                             16
+TOTAL_SOCKET_COUNT                                           16
+PLATFORM_NAME                                                Linux_x86_64-bit
+VERSION                                                      12.1.0.2.0
+DB_NAME                                                      RACDB
+INSTANCES                                                    2
+HOSTS                                                        racnode1,racnode2
+Database_SIZE_GB                                             2.72
+PEAK_OS_CPU                                                  2.1
+PEAK_READ_IOPS                                               9.7
+PEAK_READ_MBPS                                               .2
+PEAK_WRITE_IOPS                                              3.8
+PEAK_WRITE_MBPS                                              .1
+
+
